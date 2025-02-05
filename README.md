@@ -44,7 +44,7 @@ NXTSCRAPE_AI is a powerful tool that allows users to extract various types of me
 
 ## DEMO
 
-https://github.com/user-attachments/assets/a4c4ab92-fbbb-4d31-8fc7-53a8d7f12e8c
+https://github.com/user-attachments/assets/c94d58aa-2cff-47d9-9c02-daeb0f537231
 
 ## 📝 Installation
 
